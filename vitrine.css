@@ -1,0 +1,52 @@
+
+p{
+    text-align: center;
+    max-width: 810px;
+    margin:0 auto;
+    
+}@font-face{font-family: "Open Sans";src: url(vitrine-acueil.html.tff);}
+@font-face{font-family:nasalization ;src: url("nasalization-rg.ttf");}
+body{font-size: 14px;
+background-color: #f2f2f2;
+text-align: center;
+margin: auto;
+font-family: "Ma super fonte",Arial, Helvetica, sans-serif;
+}
+.column{
+    float: left;
+    width: 33.33%;
+    
+}
+.titre{color: #27d1ff;
+text-align: center;
+font-size: 40px;
+font-family: nasalization;
+font-style: normal;
+font-weight: normal;
+padding-top: 40px;
+}
+header{text-align: center;
+
+    background-image: url(texture-header.jpg);
+height: 150px;
+width: 100%;
+
+}
+.momo{float: right;}
+.toto{float:center;}
+
+
+#nav{padding: 0;margin: 0;
+    text-align: center;/*centrer le texte */}
+#nav li {
+    display: inline;
+    list-style: none;/*nécessaire pour IE7 */}
+#nav a{display: inline-block;
+margin: 0 30px;}
+
+.divbody{
+    text-align: center;
+    max-width: 810px;
+}
+
+    
